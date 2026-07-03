@@ -1,6 +1,9 @@
 # My GPT — Built from Scratch
 
 > Assembled from the NeetCode ML course on [NeetCode.io](https://neetcode.io)
+
+> Lectures Taken from [3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=omxT1L-h7ooV15gv) and different documentation, sources from the internet.
+
 > Built by **Eqan Ahmad** on July 3, 2026
 
 Every file in this project is code I wrote and submitted while completing the NeetCode ML course.
